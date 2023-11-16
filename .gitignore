@@ -10,9 +10,10 @@
 
 # production
 /build
-
-# misc
+# Ignore environment configuration files
 .env
+# misc
+
 .DS_Store
 .env.local
 .env.development.local
